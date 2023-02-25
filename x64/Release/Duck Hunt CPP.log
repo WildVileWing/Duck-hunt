@@ -1,0 +1,21 @@
+﻿  Duck.cpp
+C:\Users\wildv\source\repos\Duck Hunt CPP\Duck.cpp(36,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\wildv\source\repos\Duck Hunt CPP\Duck.cpp(46,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+C:\Users\wildv\source\repos\Duck Hunt CPP\Game.cpp(16,27): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\wildv\source\repos\Duck Hunt CPP\Game.cpp(17,26): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\wildv\source\repos\Duck Hunt CPP\Game.cpp(30,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\wildv\source\repos\Duck Hunt CPP\Game.cpp(88,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\wildv\source\repos\Duck Hunt CPP\Game.cpp(87,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wildv\source\repos\Duck Hunt CPP\Game.cpp(163,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wildv\source\repos\Duck Hunt CPP\Game.cpp(163,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 514 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Duck Hunt CPP.vcxproj -> C:\Users\wildv\source\repos\Duck Hunt CPP\x64\Release\Duck Hunt CPP.exe

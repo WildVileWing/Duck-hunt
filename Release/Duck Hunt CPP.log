@@ -1,0 +1,7 @@
+﻿  Duck.cpp
+C:\Users\wildv\source\repos\Duck Hunt CPP\Duck.h(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+C:\Users\wildv\source\repos\Duck Hunt CPP\Duck.h(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+C:\Users\wildv\source\repos\Duck Hunt CPP\Duck.h(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
